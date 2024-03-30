@@ -1,0 +1,40 @@
+header {
+    text-align: center;
+    color: white;
+    
+}
+
+body {
+    background: rgb(69, 69, 234);
+}
+
+.container-group {
+    display: inline-block;
+    display: flex;
+   margin: 0;
+   padding: 0;
+   list-style-type: none;
+   margin-right: 20px;
+  
+}
+
+
+.container-group li {
+    display: inline-block;
+    margin-right: 20px;
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    margin-bottom: 100px;
+    margin-top: 20px;
+    text-align: center;]
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    transition: 0.3s;
+
+
+}
+.container-group li:hover {
+    
+}
+
